@@ -1,2 +1,37 @@
-# Personal Album and Notes App with Auth (C# WinForms)
-Login/Sign up sistemine sahip, kullanıcıya özel albüm uygulaması. Fotoğraf ve not ekleme, klasör yönetimi, görsel boyutlandırma gibi birçok alt sistemi barındıran kapsamlı bir proje.
+# 📌 Memoire
+
+## 📖 Açıklama
+Memoire, kullanıcıların kendilerine özel albümler oluşturabileceği bir masaüstü uygulamasıdır.  
+Fotoğraf ve not ekleme, klasör yönetimi, kullanıcı girişi gibi birçok alt sistemi barındırır.  
+Login/Sign up sistemi sayesinde kişisel kullanım için güvenli bir yapı sunar.  
+
+---
+
+## 🚀 Özellikler
+- [✔] Kullanıcı girişi (Login/Sign up)  
+- [✔] Kişiye özel albüm oluşturma  
+- [✔] Fotoğraf ekleme ve görüntüleme 
+- [✔] Not ekleme ve yönetme  
+- [✔] Klasör bazlı içerik organizasyonu  
+- [✔] Görsel en-boy hesaplayarak görüntüleme
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+- C# (.NET WinForms)  
+- Windows Forms UI  
+- .NET Framework  
+
+---
+
+## 📂 Kurulum & Çalıştırma
+1. `Release` klasörüne gidin.  
+2. `MemoireWinForms.exe` dosyasını çalıştırın.  
+3. Uygulama ek kurulum gerektirmeden direkt çalışır.  
+
+---
+
+## 👤 Geliştirici
+- **Yasin Durak**  
+- [www.linkedin.com/in/yasin-durak-22a787217]  
+- [github.com/yasindev9]  
