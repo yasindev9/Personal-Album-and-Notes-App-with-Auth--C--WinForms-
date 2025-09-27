@@ -34,4 +34,4 @@ Login/Sign up sistemi sayesinde kişisel kullanım için güvenli bir yapı suna
 ## 👨‍💻 Geliştirici
 - **Yasin Durak**
 - ([@yasindev9](https://github.com/yasindev9))
-- ([linkedin]([www.linkedin.com/in/yasin-durak-22a787217]))
+- ([linkedin]([https://www.linkedin.com/in/yasindurak/]))
